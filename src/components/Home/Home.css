@@ -1,0 +1,14 @@
+.Home {
+  height: 550px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(
+      to right,
+      rgba(70, 75, 74, 0.825),
+      rgba(55, 65, 59, 0.73)
+    ),
+    url(./../../assets/images/background.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
